@@ -24,7 +24,7 @@ I build systems that make AI faster, more efficient, and more scalable.
 
 <!-- *Research interests:* Efficient AI · Distributed ML Systems · Parallel Inference · Diffusion Model Serving -->
 
-# Education
+# Educations
 
 - Tsinghua University — *M.S. in Computer Science*, 2024 – Present  
 - Southern University of Science and Technology — *B.E. in Computer Science*, 2020 – 2024  
@@ -43,7 +43,7 @@ A parallel framework that mitigates communication bottlenecks in diffusion infer
 **[ICCV 2025] DICE: Staleness-Centric Optimizations for Parallel Diffusion MoE Inference**  
 Jiajun Luo\*, Lizhuo Luo\*, Jianru Xu, Jiajun Song, Rongwei Lu, Chen Tang, Zhi Wang
 [📄 Paper](https://arxiv.org/abs/2411.16786) · [💻 Code](https://github.com/Cobalt-27/DICE)
-  
+
 An asynchronous expert-parallel framework for diffusion MoE that overlaps communication and computation.
 
 
