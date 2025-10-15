@@ -17,7 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I’m a M.S. student in Computer Science at Tsinghua University, advised by Prof. Zhi Wang.  
+My research focuses on machine learning systems, especially distributed training and inference for large models.  
+
+I build systems that make AI faster, more efficient, and more scalable.
+
+<!-- *Research interests:* Efficient AI · Distributed ML Systems · Parallel Inference · Diffusion Model Serving -->
+
+# Education
+
+- Tsinghua University — *M.S. in Computer Science*, 2024 – Present  
+- Southern University of Science and Technology — *B.E. in Computer Science*, 2020 – 2024  
+
+
+# Selected Publications
+
+**CompactFusion: Accelerating Parallel Diffusion Model Serving with Residual Compression**  
+Jiajun Luo*, Yicheng Xiao*, Jianru Xu, Yangxiu You, Rongwei Lu, Chen Tang, Jingyan Jiang, Zhi Wang 
+*NeurIPS 2025* · [📄 Paper](https://arxiv.org/abs/2507.17511) · [💻 Code](https://github.com/Cobalt-27/CompactFusion)  
+> A parallel framework that mitigates communication bottlenecks in diffusion inference via residual compression, reducing inter-GPU traffic by 8×–16×.
+
+---
+
+**DICE: Staleness-Centric Optimizations for Parallel Diffusion MoE Inference**  
+Jiajun Luo*, Lizhuo Luo*, Jianru Xu, Jiajun Song, Rongwei Lu, Chen Tang, Zhi Wang
+*ICCV 2025* · [📄 Paper](https://arxiv.org/abs/2411.16786) · [💻 Code](https://github.com/Cobalt-27/DICE)  
+> An asynchronous expert-parallel framework for diffusion MoE that overlaps communication and computation.
+
+
+# Contact
+
+[luo-jj24@mails.tsinghua.edu.cn](mailto:luo-jj24@mails.tsinghua.edu.cn) · [GitHub](https://github.com/Cobalt-27) · [Pixiv](https://www.pixiv.net/en/users/36043033)
+
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -55,4 +88,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
