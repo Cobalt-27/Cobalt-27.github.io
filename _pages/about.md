@@ -22,6 +22,8 @@ My research focuses on machine learning systems, especially distributed training
 
 I build systems that make AI faster, more efficient, and more scalable.
 
+Email: [luo-jj24@mails.tsinghua.edu.cn](mailto:luo-jj24@mails.tsinghua.edu.cn)
+
 <!-- *Research interests:* Efficient AI · Distributed ML Systems · Parallel Inference · Diffusion Model Serving -->
 
 # Educations
@@ -46,10 +48,23 @@ Jiajun Luo\*, Lizhuo Luo\*, Jianru Xu, Jiajun Song, Rongwei Lu, Chen Tang, Zhi W
 
 An asynchronous expert-parallel framework for diffusion MoE that overlaps communication and computation.
 
+---
 
-# Contact
+
+
+
+
+
+
+
+<!-- # Contact
 
 [luo-jj24@mails.tsinghua.edu.cn](mailto:luo-jj24@mails.tsinghua.edu.cn) · [GitHub](https://github.com/Cobalt-27) · [Pixiv](https://www.pixiv.net/en/users/36043033)
+
+--- -->
+
+
+
 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
