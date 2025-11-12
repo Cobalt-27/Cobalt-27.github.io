@@ -36,15 +36,15 @@ Email: [luo-jj24@mails.tsinghua.edu.cn](mailto:luo-jj24@mails.tsinghua.edu.cn)
 
 **[NeurIPS 2025] CompactFusion: Accelerating Parallel Diffusion Model Serving with Residual Compression**  
 Jiajun Luo\*, Yicheng Xiao\*, Jianru Xu, Yangxiu You, Rongwei Lu, Chen Tang, Jingyan Jiang, Zhi Wang 
-[📄 Paper](https://arxiv.org/abs/2507.17511) · [💻 Code](https://github.com/Cobalt-27/CompactFusion)  
+[Paper](https://arxiv.org/abs/2507.17511) · [Code](https://github.com/Cobalt-27/CompactFusion)  
 
 A parallel framework that mitigates communication bottlenecks in diffusion inference via residual compression, reducing inter-GPU traffic by 8×–16×.
 
 ---
 
 **[ICCV 2025] DICE: Staleness-Centric Optimizations for Parallel Diffusion MoE Inference**  
-Jiajun Luo\*, Lizhuo Luo\*, Jianru Xu, Jiajun Song, Rongwei Lu, Chen Tang, Zhi Wang
-[📄 Paper](https://arxiv.org/abs/2411.16786) · [💻 Code](https://github.com/Cobalt-27/DICE)
+Jiajun Luo\*, Lizhuo Luo\*, Jianru Xu\*, Jiajun Song, Rongwei Lu, Chen Tang, Zhi Wang
+[Paper](https://arxiv.org/abs/2411.16786) · [Code](https://github.com/Cobalt-27/DICE)
 
 An asynchronous expert-parallel framework for diffusion MoE that overlaps communication and computation.
 
