@@ -31,6 +31,8 @@ Email: [luo-jj24@mails.tsinghua.edu.cn](mailto:luo-jj24@mails.tsinghua.edu.cn)
 - Tsinghua University — *M.S. in Computer Science*, 2024 – Present  
 - Southern University of Science and Technology — *B.E. in Computer Science*, 2020 – 2024  
 
+# Internships
+- *2026.02 - Now*, Hunyuan Multimodal, Tencent. -->
 
 # Publications
 
